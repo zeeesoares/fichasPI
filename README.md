@@ -1,3 +1,3 @@
 # fichasPI
 
-- Apontamentos/Resolução exercícios Programação Imperativa em Haskell. :wave:
+- Apontamentos/Resolução exercícios Programação Imperativa em C. :wave:
